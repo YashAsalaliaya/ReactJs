@@ -1,4 +1,4 @@
-import Card from "./components/card";
+// import Card from "./components/card";
 import Card_1 from "./Components/Card_1";
 import Product from "./components/Product";
 
